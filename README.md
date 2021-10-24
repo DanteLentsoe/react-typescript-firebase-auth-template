@@ -179,3 +179,8 @@ Failed to push to Github due to out of date snapshots:
 | Version | Author                              | Date       |
 | ------- | ----------------------------------- | ---------- |
 | 0.0.1   | Dante Lentsoe <dllentsoe@gmail.com> | 24/10/2021 |
+
+## APP SCREENSHOTS
+<img width="1406" alt="Screenshot 2021-10-24 at 21 59 48" src="https://user-images.githubusercontent.com/65385487/138610740-95071f4d-df7c-4172-8217-0ceb6d4ff62e.png">
+<img width="1387" alt="Screenshot 2021-10-24 at 21 59 55" src="https://user-images.githubusercontent.com/65385487/138610741-cd4f1351-a94e-4e01-9069-d25c898237ae.png">
+
